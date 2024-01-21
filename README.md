@@ -23,9 +23,7 @@
 Most screen content does not make sufficent returns to repay the cost of production.
 
 ## Welcome
-Thanks for taking the time to vist our repo. This is the very biginning of a long arc of research that will aim to investigating using blockchain to produce screen content. The main idea of the project, is to allow content creators to have bigger buderts, to produce better stuff! If this project is successful, then old-tales will may make something, and other content creators will also be able to use the framework to make their own stuff.
-
-
+Thanks for taking the time to vist our repo. This is the very beginning of a long arc of research that will aim to investigating using blockchain to produce screen content. The main idea of the project, is to allow content creators to have bigger budgets to produce better stuff! If this project is successful, our NFT project old-tales may make something, and other content creators will also be able to use the framework to make their own stuff, with a budget.
 
 ## Cardano Catalyst F11 proposal
 ### Open-Source Audited Framework to Raise Funds for Documentary Production
@@ -42,8 +40,6 @@ The framework will aim to meet the needs of screen content consumers and produce
 Creating an open-source audited framework designed to raise capital to produce screen-based entertainment with the intent of distribution on a blockchain could greatly benefit Cardano. The framework would serve as a model for facilitating the creation of content produced with a reasonable budget, by providing a structured and independently reviewed approach. This would contribute to fostering a more robust and independent media production environment for Cardano.
 ### Overall Project Success Metrics
 Project Completion Time: Compare the actual completion time of the entire project with the initially estimated timeline to assess efficiency.
-
-
 
 ## Milestones
 ### Milestone 1
@@ -88,8 +84,6 @@ Publish the researched and refined Tokenomics document for public access.
 Successful publication of the Tokenomics document.
 Number of views, downloads, or other relevant metrics on the published research.
 Positive feedback or citations received from the community.
-
-
 
 ## Thanks for reading this proposal!
 ### Summary
