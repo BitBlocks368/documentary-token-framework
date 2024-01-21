@@ -1,9 +1,10 @@
 # documentary-token-framework
-## Welcome
-Thanks for taking the time to vist our repo. This is the very biginning of a long arc of research that will aim to investigating using blockchain to produce screen content. The main idea of the project, is to allow content creators to have bigger buderts, to produce better stuff! If this project is successful, then old-tales will may make something, and other content creators will also be able to use the framework to make their own stuff.
 
 ### Did you know?
-Most screen content does not make sufficent returns to repay the cost of production. We want to investigate how blockchian can change that.
+Most screen content does not make sufficent returns to repay the cost of production.
+
+## Welcome
+Thanks for taking the time to vist our repo. This is the very biginning of a long arc of research that will aim to investigating using blockchain to produce screen content. The main idea of the project, is to allow content creators to have bigger buderts, to produce better stuff! If this project is successful, then old-tales will may make something, and other content creators will also be able to use the framework to make their own stuff.
 
 ## Cardano Catalyst F11 proposal
 ### Open-Source Audited Framework to Raise Funds for Documentary Production
