@@ -19,7 +19,7 @@
                 (&        &                                                     
                          &&                                                     
                               
-#### Did you know?
+#### --- Did you know?
 Most screen content does not make sufficent returns to repay the cost of production.
 
 ## Welcome
@@ -46,10 +46,10 @@ Project Completion Time: Compare the actual completion time of the entire projec
 
 
 ## Milestones
-### Milestone 1
-#### Research Phase
+### --- Milestone 1
+#### ----- Research Phase
 Conduct research on Tokenomics for fundraising using blockchain.
-#### Research phase KPIs
+#### ----- Research phase KPIs
 Number of hours dedicated to research.
 Number of relevant sources identified and analyzed.
 Completion of a literature review on blockchain Tokenomics.
