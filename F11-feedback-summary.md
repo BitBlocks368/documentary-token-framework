@@ -24,3 +24,24 @@
 - **Stakeholder Mapping**: Identify different types of reviewers (e.g., experts in blockchain, media production, legal/accounting professionals) and analyze their feedback separately. This can reveal how perceptions of value for money and project feasibility differ among various stakeholder groups.
 - **Feedback Implementation Plan**: Develop a plan for addressing the feedback, prioritizing actions based on the impact on the proposal's success and feasibility of implementation. This plan can then be shared with potential supporters to demonstrate responsiveness and commitment to improvement.
 - **Engage with Reviewers**: If possible, engage directly with reviewers to clarify their concerns and gather more detailed suggestions for improvement. This direct dialogue can provide deeper insights and foster a sense of community involvement.
+### Fesability
+#### Positive feedback
+- The team, consisting of Scott Collins and Kristen Bouwman, is recognized for their skills, experience in video & documentary production, and community management.
+- There is a clear project structure with well-defined milestones, including research, writing, financial (tokenomics), legal aspects, and editing phases.
+- The proposal outlines a solid plan with detailed activities for each milestone, key performance indicators (KPIs) for measuring success, and a cost breakdown.
+- Some reviewers acknowledge the team's dedication and active participation in the Cardano ecosystem, highlighting their relevant skills in blockchain technology, NFT creation, and community management.
+- The budget is seen as reasonable by some, with standardized costs for the services required.
+
+#### Negative feedback
+- Lack of proof and social media links to support the claims about team members' expertise and involvement in the ecosystem.
+- Absence of timelines for the milestones, making it difficult to judge the project's feasibility within the proposed timeframe.
+- The proposal lacks a detailed plan for unforeseen events and mitigation plans, which could affect project feasibility.
+- Several reviewers express concerns about the lack of external links to team members' profiles, which raises questions about transparency and the ability to assess the team's capabilities.
+- Concerns about the high budget and the short timeframe proposed for completing the project, with some considering it too ambitious or risky.
+
+##### Suggestions for Analyzing Feedback:
+1. **Quantitative Analysis**: Aggregate scores for feasibility and categorize comments based on specific themes (team expertise, project structure, budget concerns, etc.) to identify areas with the most criticism or praise.
+2. **Sentiment Analysis**: Use text analysis tools to gauge the overall sentiment of the feedback (positive, negative, neutral) and identify the intensity of sentiments related to specific aspects of the proposal.
+3. **Gap Analysis**: Compare the feedback against the proposal's strengths and weaknesses to identify gaps in information or areas that need more clarity.
+4. **Trend Analysis**: Look for trends in the feedback over time (if applicable) to see if perceptions change as more information is provided or as the team addresses concerns.
+5. **Competitor Benchmarking**: Compare feedback and scores with similar proposals to understand how your proposal stands in comparison and identify areas for improvement.
